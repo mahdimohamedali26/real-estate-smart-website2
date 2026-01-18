@@ -1,0 +1,12 @@
+
+{
+  "name": "al-wakeel-realestate",
+  "version": "1.0.0",
+  "description": "موقع شركة الوكيل للاستثمارات العقارية",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
